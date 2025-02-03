@@ -27,24 +27,6 @@ Ensure you have the following tools installed:
 ✔️ Python 3.8+
 ✔️ OpenCV, NumPy
 
-Installation Steps
-Clone the repository
-sh
-Копировать
-Редактировать
-git clone https://github.com/your-repo/color-correction-ar.git
-cd color-correction-ar
-Install dependencies
-sh
-Копировать
-Редактировать
-pip install -r requirements.txt
-Deploy on HoloLens
-Open the project in Visual Studio
-Set the target device to HoloLens
-Deploy using UWP Platform
-Usage Guide
-Launch the Application on HoloLens
 Choose Mode:
 Simulation Mode: Displays how colorblind people perceive colors.
 Correction Mode: Adjusts colors for colorblind users in real-time.
