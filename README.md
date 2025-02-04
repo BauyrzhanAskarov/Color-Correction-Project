@@ -23,7 +23,6 @@ The solution is built using Python, OpenCV, and Microsoft’s HololensForCV libr
 - **Python, OpenCV**
 - **[Microsoft HololensForCV GitHub repository for 1st generation](https://github.com/microsoft/HoloLensForCV.git)**
 - **C++, C# (For AR Integration)**
-- **MongoDB (For Data Storage)**
 - **Unity3D (For HoloLens UI Development)**
 
 ---
@@ -47,8 +46,7 @@ Ensure you have the following tools installed:
 2. **Correction Mode**: Adjusts colors for colorblind users in real-time.  
 3. **Interact using Hand Gestures**  
 4. **Two-finger tap** → Activates AR visualization  
-5. **Gaze & Air Tap** → Select objects for color adjustment  
-6. **Code Attribution & Modifications**
+5. **Code Attribution & Modifications**
 
 ---
 
