@@ -91,4 +91,3 @@ This project is based on open-source code from Microsoft HololensForCV. The orig
 - 👤 **Dias Akimbay**
 - 👤 **Bekmurat Amangeldiyev**
 - 👤 **Rakhat Ospanov**
-- 👤 **Zhanat Kappassov**
