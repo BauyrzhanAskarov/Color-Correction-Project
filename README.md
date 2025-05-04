@@ -88,6 +88,4 @@ This project is based on open-source code from Microsoft HololensForCV. The orig
 ## Contributors
 
 - 👤 **Bauyrzhan Askarov**
-- 👤 **Dias Akimbay**
-- 👤 **Bekmurat Amangeldiyev**
 - 👤 **Rakhat Ospanov**
